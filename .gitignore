@@ -204,3 +204,4 @@ pip-selfcheck.json
 
 .env
 
+data/crops-price-data-preprocessing/
